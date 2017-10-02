@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>identifier</key>
+		<integer>1</integer>
+		<key>fullname</key>
+		<string>John Appleseed</string>
+		<key>avatarURL</key>
+		<string>http://sheregesh.su/sites/default/files/imagecache/normal/konkurs2011/p3190386_0.jpg</string>
+		<key>message</key>
+		<string>Each spring, resorts close with their entire mountain covered in soft, slushy snow, and they open up in the fall with one crusty, crowded run</string>
+		<key>unreadMessagesCount</key>
+		<integer>0</integer>
+		<key>sendingDate</key>
+		<date>2015-11-03T15:01:19Z</date>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>2</integer>
+		<key>fullname</key>
+		<string>Crusty Jenkins</string>
+		<key>avatarURL</key>
+		<string>http://i42.fastpic.ru/big/2012/0824/92/5553e3aa4891964e3a9531fc142a1192.jpg</string>
+		<key>message</key>
+		<string>But when you’ve got the itch, you’ve gotta scratch it. Our Online Editor, Jens Heig, and I headed to Loveland for opening day to scratch that itch, and decided to offer the internet our advice on navigating the first day of the snowboard season.</string>
+		<key>unreadMessagesCount</key>
+		<integer>3</integer>
+		<key>sendingDate</key>
+		<date>2015-11-03T16:01:19Z</date>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>3</integer>
+		<key>fullname</key>
+		<string>Mark Enlund</string>
+		<key>avatarURL</key>
+		<string>http://img.rsport.ru/images/72072/59/720725974.jpg</string>
+		<key>message</key>
+		<string>Unless you’re trying to get first chair — in which case, early means like two days prior — there’s no need to get to the mountain first thing in the morning on opening day. Give the ice rink a couple hours to thaw first.</string>
+		<key>unreadMessagesCount</key>
+		<integer>5</integer>
+		<key>sendingDate</key>
+		<date>2015-11-03T17:01:19Z</date>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>4</integer>
+		<key>fullname</key>
+		<string>Kevin Foster</string>
+		<key>avatarURL</key>
+		<string>http://trud-ost.ru/wp-content/uploads/2011/02/d181d0bdd0bed183d0b1d0bed180d0b4d0b8d181d182-450x379.jpg</string>
+		<key>message</key>
+		<string>There is no such thing as a full parking lot</string>
+		<key>unreadMessagesCount</key>
+		<integer>22</integer>
+		<key>sendingDate</key>
+		<date>2015-11-03T18:01:19Z</date>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>5</integer>
+		<key>fullname</key>
+		<string>Michelle Daniels</string>
+		<key>avatarURL</key>
+		<string></string>
+		<key>message</key>
+		<string>But if you show up at the crack of noon on opening day, right as the snow’s getting soft, you’ll be able to slide into the prime and recently vacated space of a telemarker that got there at dawn.</string>
+		<key>unreadMessagesCount</key>
+		<integer>18</integer>
+		<key>sendingDate</key>
+		<date>2015-11-03T20:01:19Z</date>
+	</dict>
+</array>
+</plist>
